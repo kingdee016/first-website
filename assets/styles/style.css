@@ -3686,8 +3686,8 @@ footer .right .text button {
     align-items: center;
     color: white;
     position: absolute;
-    top: 130px;
-    left: 80px;
+    top: 60px;
+    left: 40px;
   }
   main .sub-main .picture {
     width: 25%;
@@ -3746,8 +3746,8 @@ footer .right .text button {
     top: 30px;
   }
   main .dots:hover .sub-main2 .picture {
-    width: 40%;
-    height: 25%;
+    width: 60%;
+    height: 35%;
     margin: 0.1rem 0 1rem 0;
   }
   main .dots:hover .sub-main2 hr {
@@ -3755,21 +3755,21 @@ footer .right .text button {
   }
   main .dots:hover .sub-main2 .p3 {
     margin: 1rem 0 0 3rem;
-    font-size: 1.2vw;
+    font-size: 0.8rem;
   }
   main .dots:hover .sub-main2 .media {
-    margin: 0 0 2rem 1rem;
+    margin: 0 0 0.5rem 0.5rem;
     font-size: 2.5vw;
     display: flex;
     justify-content: space-around;
     width: 90%;
   }
   main .dots:hover .sub-main2 .anchor {
-    font-size: 1.9vw;
+    font-size: 1rem;
     font-weight: 800;
     height: 60%;
     margin: 0.5rem 0 0 0;
-    padding: 0 0 0 3rem;
+    padding: 0 0 0 1rem;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -3802,8 +3802,8 @@ footer .right .text button {
     overflow: hidden;
   }
   main .sub-main2 .picture {
-    width: 25%;
-    height: 15%;
+    width: 40%;
+    height: 45%;
   }
   main .sub-main2 .picture img {
     width: 100%;
@@ -3838,7 +3838,7 @@ footer .right .text button {
     width: 100%;
     justify-content: space-around;
     position: absolute;
-    bottom: -74px;
+    bottom: -174px;
   }
   main .who-am-i .down .div {
     background-color: white;
@@ -3858,9 +3858,9 @@ footer .right .text button {
   }
   main .education {
     width: 90%;
-    height: 50vh;
+    height: 80vh;
     display: flex;
-    margin: -10rem auto;
+    margin: 6rem auto;
   }
   main .education .left {
     background-color: blue;
@@ -3893,11 +3893,11 @@ footer .right .text button {
   main .services {
     background-color: white;
     width: 100%;
-    height: 120vh;
+    height: 170vh;
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 15rem 0 0 0;
+    margin: 1rem 0 0 0;
   }
   main .services h1 {
     font-size: 1.5rem;
@@ -3916,7 +3916,7 @@ footer .right .text button {
   }
   main .services .text p {
     font-size: 1.2rem;
-    margin: 0 0 0 0;
+    margin: 0 0 2rem 0;
   }
   main .services .picture {
     width: 95%;
@@ -4006,7 +4006,7 @@ footer .right .text button {
   }
   footer {
     background-color: grey;
-    height: 80vh;
+    height: 190vh;
     display: flex;
     flex-direction: column;
   }
@@ -4153,34 +4153,34 @@ footer .right .text button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    left: 25px;
+    left: 20px;
     top: 30px;
   }
   main .dots:hover .sub-main2 .picture {
-    width: 40%;
-    height: 25%;
+    width: 60%;
+    height: 35%;
     margin: 0.1rem 0 1rem 0;
   }
   main .dots:hover .sub-main2 hr {
     margin: 1rem;
   }
   main .dots:hover .sub-main2 .p3 {
-    margin: 1rem 0 0 3rem;
-    font-size: 1.2vw;
+    margin: 0.5rem 0 0 2rem;
+    font-size: 0.6rem;
   }
   main .dots:hover .sub-main2 .media {
-    margin: 0 0 2rem 1rem;
-    font-size: 2.5vw;
+    margin: 0 0 1rem 0.5rem;
+    font-size: 1.5rem;
     display: flex;
     justify-content: space-around;
     width: 90%;
   }
   main .dots:hover .sub-main2 .anchor {
-    font-size: 1.9vw;
+    font-size: 1.1rem;
     font-weight: 800;
     height: 60%;
     margin: 0.5rem 0 0 0;
-    padding: 0 0 0 3rem;
+    padding: 0 0 0 1rem;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -4547,12 +4547,13 @@ footer .right .text button {
     left: 20px;
   }
   main .dots h1 {
+    font-size: 2.5rem;
     color: black;
   }
   main .dots:hover {
     background-color: rgba(0, 0, 0, 0.767);
     transition: 1s;
-    width: 33%;
+    width: 43%;
     height: 96%;
     z-index: 2;
   }
@@ -4575,30 +4576,30 @@ footer .right .text button {
     top: 30px;
   }
   main .dots:hover .sub-main2 .picture {
-    width: 40%;
-    height: 25%;
+    width: 60%;
+    height: 35%;
     margin: 0.1rem 0 1rem 0;
   }
   main .dots:hover .sub-main2 hr {
-    margin: 1rem;
+    margin: 0.4rem;
   }
   main .dots:hover .sub-main2 .p3 {
-    margin: 1rem 0 0 3rem;
-    font-size: 1.2vw;
+    margin: 0.4rem 0 0 1rem;
+    font-size: 1rem;
   }
   main .dots:hover .sub-main2 .media {
-    margin: 0 0 2rem 1rem;
-    font-size: 2.5vw;
+    margin: 0 0 2rem 0.5rem;
+    font-size: 1.5rem;
     display: flex;
     justify-content: space-around;
     width: 90%;
   }
   main .dots:hover .sub-main2 .anchor {
-    font-size: 1.9vw;
+    font-size: 1rem;
     font-weight: 800;
     height: 60%;
     margin: 0.5rem 0 0 0;
-    padding: 0 0 0 3rem;
+    padding: 0 0 0 1rem;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -4667,7 +4668,7 @@ footer .right .text button {
     width: 100%;
     justify-content: space-around;
     position: absolute;
-    bottom: -184px;
+    bottom: -224px;
   }
   main .who-am-i .down .div {
     background-color: white;
@@ -4679,7 +4680,7 @@ footer .right .text button {
     font-size: 1.3vw;
   }
   main .who-am-i .down .div h1 {
-    font-size: 0.85rem;
+    font-size: 0.7rem;
     margin: 0 0 0.5rem 0;
   }
   main .who-am-i .down .div p {
@@ -4971,7 +4972,7 @@ footer .right .text button {
     background-color: rgba(0, 0, 0, 0.767);
     transition: 1s;
     width: 43%;
-    height: 96%;
+    height: 86%;
     z-index: 2;
   }
   main .dots:hover .h1 {
@@ -4993,19 +4994,19 @@ footer .right .text button {
     top: 10px;
   }
   main .dots:hover .sub-main2 .picture {
-    width: 70%;
+    width: 60%;
     height: 35%;
-    margin: 0.1rem 0 1rem 0;
+    margin: 1rem 0 1rem 0;
   }
   main .dots:hover .sub-main2 hr {
-    margin: 1rem;
+    margin: 0.4rem;
   }
   main .dots:hover .sub-main2 .p3 {
-    margin: 0.2rem 0 1rem 3rem;
-    font-size: 1rem;
+    margin: 0.2rem 0 1rem 1.7rem;
+    font-size: 0.8rem;
   }
   main .dots:hover .sub-main2 .media {
-    margin: 0 0 2rem 1rem;
+    margin: 0 0 0.7rem 0.6rem;
     font-size: 1.5rem;
     display: flex;
     justify-content: space-around;
@@ -5016,7 +5017,7 @@ footer .right .text button {
     font-weight: 800;
     height: 60%;
     margin: 0.5rem 0 0 0;
-    padding: 0 0 0 1rem;
+    padding: 0 0 0 0.6rem;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -5089,7 +5090,7 @@ footer .right .text button {
     justify-content: center;
     align-items: center;
     position: absolute;
-    bottom: -424px;
+    bottom: -454px;
   }
   main .who-am-i .down .div {
     background-color: white;
@@ -5333,6 +5334,852 @@ footer .right .text button {
     font-weight: 900;
   }
 }
+@media only screen and (max-width: 360px) {
+  main {
+    background-color: rgb(181, 181, 184);
+  }
+  main .main-div {
+    background-color: black;
+    width: 100%;
+    height: 60vh;
+  }
+  main .main-div img {
+    width: 100%;
+    height: 100%;
+    opacity: 0.4;
+  }
+  main .sub-main {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    position: absolute;
+    top: 50px;
+    left: 40px;
+  }
+  main .sub-main .picture {
+    width: 25%;
+    height: 95%;
+  }
+  main .sub-main .picture img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+  }
+  main .sub-main .text {
+    text-align: center;
+    margin: 1rem 0 0 0;
+    font-size: 0.8rem;
+  }
+  main .sub-main .text .p2 {
+    padding-top: 1rem;
+  }
+  main .dots {
+    width: 4%;
+    z-index: 3;
+    height: 1%;
+    color: white;
+    position: fixed;
+    font-size: 2vw;
+    margin: 2rem 0 0 0;
+    top: -25px;
+    left: 20px;
+  }
+  main .dots h1 {
+    color: black;
+  }
+  main .dots:hover {
+    background-color: rgba(0, 0, 0, 0.767);
+    transition: 1s;
+    width: 43%;
+    height: 86%;
+    z-index: 2;
+  }
+  main .dots:hover .h1 {
+    color: transparent;
+    z-index: 2;
+  }
+  main .dots:hover .sub-main2 {
+    width: 80%;
+    height: 90%;
+    padding: 0;
+    z-index: 2;
+    overflow: visible;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    left: 15px;
+    top: 10px;
+  }
+  main .dots:hover .sub-main2 .picture {
+    width: 60%;
+    height: 35%;
+    margin: 1rem 0 1rem 0;
+  }
+  main .dots:hover .sub-main2 hr {
+    margin: 0.4rem;
+  }
+  main .dots:hover .sub-main2 .p3 {
+    margin: 0.2rem 0 1rem 1.7rem;
+    font-size: 0.8rem;
+  }
+  main .dots:hover .sub-main2 .media {
+    margin: 0 0 0.7rem 0.6rem;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: space-around;
+    width: 90%;
+  }
+  main .dots:hover .sub-main2 .anchor {
+    font-size: 1.1rem;
+    font-weight: 800;
+    height: 60%;
+    margin: 0.5rem 0 0 0;
+    padding: 0 0 0 0.6rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+  }
+  main .dots:hover .sub-main2 a {
+    color: white;
+    text-decoration: none;
+  }
+  main .dots:hover .sub-main2 a:hover {
+    color: blue;
+  }
+  main .dots:hover .sub-main2 .a1 {
+    color: white;
+  }
+  main .dots:hover .sub-main2 .a1:hover {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1rem;
+    color: blue;
+    width: 5rem;
+  }
+  main .sub-main2 {
+    width: 0;
+    height: 0;
+    padding: 0 0 0 5rem;
+    position: absolute;
+    top: 200px;
+    overflow: hidden;
+  }
+  main .sub-main2 .picture {
+    width: 25%;
+    height: 15%;
+  }
+  main .sub-main2 .picture img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+  }
+  main .who-am-i {
+    width: 100%;
+    height: 120vh;
+    margin: 1.5rem auto;
+    display: flex;
+    flex-direction: column;
+  }
+  main .who-am-i .up {
+    background-color: rgb(9, 39, 173);
+    font-size: 1.5vw;
+    color: white;
+    padding: 0 2rem 0 0;
+    width: 100%;
+    height: 35%;
+  }
+  main .who-am-i .up h1 {
+    font-size: 1.7rem;
+    margin: 1rem 0 1rem 7rem;
+  }
+  main .who-am-i .up p {
+    font-size: 1rem;
+    padding: 0 0 0 2rem;
+  }
+  main .who-am-i .down {
+    display: flex;
+    width: 100%;
+    height: 65%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: -454px;
+  }
+  main .who-am-i .down .div {
+    background-color: white;
+    box-shadow: 2px 3px 4px rgb(94, 94, 94);
+    height: 24vh;
+    margin: 1rem;
+    width: 50%;
+    text-align: center;
+    padding: 2rem 2rem 8rem 2rem;
+    font-size: 1.2vw;
+  }
+  main .who-am-i .down .div h1 {
+    font-size: 0.85rem;
+    margin: 0 0 0.5rem 0;
+  }
+  main .who-am-i .down .div p {
+    font-size: 1rem;
+  }
+  main .who-am-i .down .div:hover {
+    background-color: blue;
+    color: white;
+  }
+  main .education {
+    width: 90%;
+    height: 80vh;
+    display: flex;
+    margin: 13rem auto;
+  }
+  main .education .left {
+    background-color: blue;
+    color: white;
+    width: 50%;
+    height: 100%;
+    font-size: 3.2vw;
+    padding: 2rem 2rem 0 2rem;
+  }
+  main .education .left .div {
+    margin: 2rem 0 0 0;
+  }
+  main .education .left .div h1 {
+    font-size: 1rem;
+  }
+  main .education .right {
+    background-color: blue;
+    color: white;
+    width: 50%;
+    height: 100%;
+    font-size: 3.2vw;
+    padding: 2rem 2rem 0 2rem;
+  }
+  main .education .right .div {
+    margin: 3rem 0 0 0;
+  }
+  main .education .right .div h1 {
+    font-size: 1.2rem;
+  }
+  main .services {
+    background-color: white;
+    width: 100%;
+    height: 150vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: -10rem 0 0 0;
+  }
+  main .services h1 {
+    font-size: 1.5rem;
+    margin: 2rem 0 0 0;
+  }
+  main .services .text {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-around;
+    height: 12vh;
+  }
+  main .services .text h1 {
+    font-size: 1.9rem;
+  }
+  main .services .text p {
+    font-size: 1.2rem;
+    margin: 0 0 0.5rem 0;
+  }
+  main .services .picture {
+    width: 95%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    margin: 3rem 0 0 0;
+    overflow: visible;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+  }
+  main .services .picture .div {
+    width: 40%;
+    margin-top: 1rem;
+    height: 70%;
+    background-color: rgb(238, 238, 238);
+    box-shadow: 9px 8px 10px grey;
+  }
+  main .services .picture .div .picture {
+    width: 100%;
+    height: 50%;
+  }
+  main .services .picture .div .picture img {
+    width: 100%;
+    height: 100%;
+  }
+  main .services .picture .div h1 {
+    text-align: center;
+    font-size: 1.4rem;
+  }
+  main .my-works {
+    width: 100%;
+    height: 120vh;
+    margin: 1rem 0 0 0;
+  }
+  main .my-works h1 {
+    font-size: 2rem;
+    text-align: center;
+    padding: 3rem 0 0 0;
+    color: white;
+  }
+  main .my-works .big-pic {
+    width: 90%;
+    margin: 3rem auto;
+    height: 60%;
+  }
+  main .my-works .big-pic .left {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-around;
+  }
+  main .my-works .big-pic .left .picture {
+    width: 30%;
+    height: 90%;
+  }
+  main .my-works .big-pic .left .picture img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+  }
+  main .my-works .big-pic .left .picture img:hover {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border-radius: 2rem;
+  }
+  main .my-works .big-pic .right {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-around;
+  }
+  main .my-works .big-pic .right .picture {
+    width: 36%;
+    height: 90%;
+  }
+  main .my-works .big-pic .right .picture img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+  }
+  main .my-works .big-pic .right .picture img:hover {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border-radius: 2rem;
+  }
+  footer {
+    background-color: grey;
+    margin: 2rem 0 0 0;
+    height: 150vh;
+    display: flex;
+    flex-direction: column;
+  }
+  footer .left {
+    background-color: rgb(48, 47, 47);
+    color: white;
+    width: 100%;
+    height: 50%;
+    padding: 2rem 15rem 0 0;
+  }
+  footer .left h1 {
+    font-size: 1.2rem;
+    margin: 0 0 0 2rem;
+  }
+  footer .left .text {
+    margin: 1rem 0 0 2rem;
+    padding: 0 6.3rem 0 0;
+    height: 60%;
+    width: 100%;
+    font-size: 1rem;
+    font-weight: 900;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  footer .right {
+    background-color: white;
+    color: rgb(97, 97, 97);
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  footer .right .text {
+    height: 90%;
+    width: 90%;
+    display: flex;
+    padding: 0 5rem 0 0;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: auto;
+  }
+  footer .right .text input {
+    background-color: transparent;
+    height: 20%;
+    border: none;
+    border-bottom: 3px solid grey;
+    color: grey;
+    font-size: 1.3rem;
+    outline: none;
+  }
+  footer .right .text .input {
+    height: 25%;
+    overflow: auto;
+  }
+  footer .right .text button {
+    width: 80%;
+    height: 20%;
+    background-color: grey;
+    color: white;
+    border: none;
+    margin: 1rem auto;
+    font-size: 1.3rem;
+    font-weight: 900;
+  }
+}
+@media only screen and (max-width: 346px) {
+  main {
+    background-color: rgb(181, 181, 184);
+  }
+  main .main-div {
+    background-color: black;
+    width: 100%;
+    height: 60vh;
+  }
+  main .main-div img {
+    width: 100%;
+    height: 100%;
+    opacity: 0.4;
+  }
+  main .sub-main {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    position: absolute;
+    top: 50px;
+    left: 40px;
+  }
+  main .sub-main .picture {
+    width: 25%;
+    height: 95%;
+  }
+  main .sub-main .picture img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+  }
+  main .sub-main .text {
+    text-align: center;
+    margin: 1rem 0 0 0;
+    font-size: 0.8rem;
+  }
+  main .sub-main .text .p2 {
+    padding-top: 1rem;
+  }
+  main .dots {
+    width: 4%;
+    z-index: 3;
+    height: 1%;
+    color: white;
+    position: fixed;
+    font-size: 2vw;
+    margin: 2rem 0 0 0;
+    top: -25px;
+    left: 20px;
+  }
+  main .dots h1 {
+    color: black;
+  }
+  main .dots:hover {
+    background-color: rgba(0, 0, 0, 0.767);
+    transition: 1s;
+    width: 49%;
+    height: 86%;
+    z-index: 2;
+  }
+  main .dots:hover .h1 {
+    color: transparent;
+    z-index: 2;
+  }
+  main .dots:hover .sub-main2 {
+    width: 80%;
+    height: 90%;
+    padding: 0;
+    z-index: 2;
+    overflow: visible;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    left: 15px;
+    top: 10px;
+  }
+  main .dots:hover .sub-main2 .picture {
+    width: 60%;
+    height: 35%;
+    margin: 1rem 0 1rem 0;
+  }
+  main .dots:hover .sub-main2 hr {
+    margin: 0.4rem;
+  }
+  main .dots:hover .sub-main2 .p3 {
+    margin: 0.2rem 0 1rem 1.7rem;
+    font-size: 0.8rem;
+  }
+  main .dots:hover .sub-main2 .media {
+    margin: 0 0 0.7rem 0.6rem;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: space-around;
+    width: 90%;
+  }
+  main .dots:hover .sub-main2 .anchor {
+    font-size: 1rem;
+    font-weight: 800;
+    height: 60%;
+    margin: 0.5rem 0 0 0;
+    padding: 0 0 0 0.6rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+  }
+  main .dots:hover .sub-main2 a {
+    color: white;
+    text-decoration: none;
+  }
+  main .dots:hover .sub-main2 a:hover {
+    color: blue;
+  }
+  main .dots:hover .sub-main2 .a1 {
+    color: white;
+  }
+  main .dots:hover .sub-main2 .a1:hover {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1rem;
+    color: blue;
+    width: 5rem;
+  }
+  main .sub-main2 {
+    width: 0;
+    height: 0;
+    padding: 0 0 0 5rem;
+    position: absolute;
+    top: 200px;
+    overflow: hidden;
+  }
+  main .sub-main2 .picture {
+    width: 25%;
+    height: 15%;
+  }
+  main .sub-main2 .picture img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+  }
+  main .who-am-i {
+    width: 100%;
+    height: 120vh;
+    margin: 1.5rem auto;
+    display: flex;
+    flex-direction: column;
+  }
+  main .who-am-i .up {
+    background-color: rgb(9, 39, 173);
+    font-size: 1.5vw;
+    color: white;
+    padding: 0 2rem 0 0;
+    width: 100%;
+    height: 35%;
+  }
+  main .who-am-i .up h1 {
+    font-size: 1.4rem;
+    margin: 1rem 0 1rem 7rem;
+  }
+  main .who-am-i .up p {
+    font-size: 1rem;
+    padding: 0 0 0 2rem;
+  }
+  main .who-am-i .down {
+    display: flex;
+    width: 100%;
+    height: 65%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    bottom: -474px;
+  }
+  main .who-am-i .down .div {
+    background-color: white;
+    box-shadow: 2px 3px 4px rgb(94, 94, 94);
+    height: 24vh;
+    margin: 1rem;
+    width: 50%;
+    text-align: center;
+    padding: 2rem 2rem 9rem 2rem;
+    font-size: 1.2vw;
+  }
+  main .who-am-i .down .div h1 {
+    font-size: 0.85rem;
+    margin: 0 0 0.5rem 0;
+  }
+  main .who-am-i .down .div p {
+    font-size: 1rem;
+  }
+  main .who-am-i .down .div:hover {
+    background-color: blue;
+    color: white;
+  }
+  main .education {
+    width: 90%;
+    height: 80vh;
+    display: flex;
+    margin: 17rem auto;
+  }
+  main .education .left {
+    background-color: blue;
+    color: white;
+    width: 50%;
+    height: 100%;
+    font-size: 3.2vw;
+    padding: 2rem 2rem 0 2rem;
+  }
+  main .education .left .div {
+    margin: 2rem 0 0 0;
+  }
+  main .education .left .div h1 {
+    font-size: 1rem;
+  }
+  main .education .right {
+    background-color: blue;
+    color: white;
+    width: 50%;
+    height: 100%;
+    font-size: 3.2vw;
+    padding: 2rem 2rem 0 2rem;
+  }
+  main .education .right .div {
+    margin: 3rem 0 0 0;
+  }
+  main .education .right .div h1 {
+    font-size: 1.2rem;
+  }
+  main .services {
+    background-color: white;
+    width: 100%;
+    height: 150vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: -10rem 0 0 0;
+  }
+  main .services h1 {
+    font-size: 1.5rem;
+    margin: 2rem 0 0 0;
+  }
+  main .services .text {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-around;
+    height: 12vh;
+  }
+  main .services .text h1 {
+    font-size: 1.9rem;
+  }
+  main .services .text p {
+    font-size: 1.2rem;
+    margin: 0 0 0.5rem 0;
+  }
+  main .services .picture {
+    width: 95%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    margin: 3rem 0 0 0;
+    overflow: visible;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+  }
+  main .services .picture .div {
+    width: 40%;
+    margin-top: 1rem;
+    height: 70%;
+    background-color: rgb(238, 238, 238);
+    box-shadow: 9px 8px 10px grey;
+  }
+  main .services .picture .div .picture {
+    width: 100%;
+    height: 50%;
+  }
+  main .services .picture .div .picture img {
+    width: 100%;
+    height: 100%;
+  }
+  main .services .picture .div h1 {
+    text-align: center;
+    font-size: 1.4rem;
+  }
+  main .my-works {
+    width: 100%;
+    height: 120vh;
+    margin: 1rem 0 0 0;
+  }
+  main .my-works h1 {
+    font-size: 2rem;
+    text-align: center;
+    padding: 3rem 0 0 0;
+    color: white;
+  }
+  main .my-works .big-pic {
+    width: 90%;
+    margin: 3rem auto;
+    height: 60%;
+  }
+  main .my-works .big-pic .left {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-around;
+  }
+  main .my-works .big-pic .left .picture {
+    width: 30%;
+    height: 90%;
+  }
+  main .my-works .big-pic .left .picture img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+  }
+  main .my-works .big-pic .left .picture img:hover {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border-radius: 2rem;
+  }
+  main .my-works .big-pic .right {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-around;
+  }
+  main .my-works .big-pic .right .picture {
+    width: 36%;
+    height: 90%;
+  }
+  main .my-works .big-pic .right .picture img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+  }
+  main .my-works .big-pic .right .picture img:hover {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    border-radius: 2rem;
+  }
+  footer {
+    background-color: grey;
+    margin: 2rem 0 0 0;
+    height: 150vh;
+    display: flex;
+    flex-direction: column;
+  }
+  footer .left {
+    background-color: rgb(48, 47, 47);
+    color: white;
+    width: 100%;
+    height: 50%;
+    padding: 2rem 10rem 0 0;
+  }
+  footer .left h1 {
+    font-size: 1.2rem;
+    margin: 0 0 0 2rem;
+  }
+  footer .left .text {
+    margin: 1rem 0 0 2rem;
+    padding: 0 6.3rem 0 0;
+    height: 60%;
+    width: 100%;
+    font-size: 1rem;
+    font-weight: 900;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  footer .right {
+    background-color: white;
+    color: rgb(97, 97, 97);
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  footer .right .text {
+    height: 90%;
+    width: 90%;
+    display: flex;
+    padding: 0 5rem 0 0;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: auto;
+  }
+  footer .right .text input {
+    background-color: transparent;
+    height: 20%;
+    border: none;
+    border-bottom: 3px solid grey;
+    color: grey;
+    font-size: 1.3rem;
+    outline: none;
+  }
+  footer .right .text .input {
+    height: 25%;
+    overflow: auto;
+  }
+  footer .right .text button {
+    width: 80%;
+    height: 20%;
+    background-color: grey;
+    color: white;
+    border: none;
+    margin: 1rem auto;
+    font-size: 1.3rem;
+    font-weight: 900;
+  }
+}
 @media only screen and (max-width: 330px) {
   main {
     background-color: rgb(181, 181, 184);
@@ -5393,8 +6240,8 @@ footer .right .text button {
   main .dots:hover {
     background-color: rgba(0, 0, 0, 0.767);
     transition: 1s;
-    width: 43%;
-    height: 96%;
+    width: 53%;
+    height: 76%;
     z-index: 2;
   }
   main .dots:hover .h1 {
@@ -5416,19 +6263,19 @@ footer .right .text button {
     top: 10px;
   }
   main .dots:hover .sub-main2 .picture {
-    width: 70%;
-    height: 35%;
+    width: 55%;
+    height: 25%;
     margin: 0.1rem 0 1rem 0;
   }
   main .dots:hover .sub-main2 hr {
-    margin: 1rem;
+    margin: 0.5rem;
   }
   main .dots:hover .sub-main2 .p3 {
-    margin: 0.2rem 0 1rem 3rem;
-    font-size: 1rem;
+    margin: 0.2rem 0 0.4rem 1.5rem;
+    font-size: 0.8rem;
   }
   main .dots:hover .sub-main2 .media {
-    margin: 0 0 2rem 1rem;
+    margin: 0 0 0.3rem 0.5rem;
     font-size: 1.5rem;
     display: flex;
     justify-content: space-around;
@@ -5439,7 +6286,7 @@ footer .right .text button {
     font-weight: 800;
     height: 60%;
     margin: 0.5rem 0 0 0;
-    padding: 0 0 0 1rem;
+    padding: 0 0 0 0.4rem;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -5637,7 +6484,7 @@ footer .right .text button {
   }
   main .my-works {
     width: 100%;
-    height: 170vh;
+    height: 190vh;
     margin: 1rem 0 0 0;
   }
   main .my-works h1 {
@@ -5649,7 +6496,7 @@ footer .right .text button {
   main .my-works .big-pic {
     width: 90%;
     margin: 3rem auto;
-    height: 70%;
+    height: 40%;
   }
   main .my-works .big-pic .left {
     width: 100%;
@@ -5825,8 +6672,8 @@ footer .right .text button {
   main .dots:hover {
     background-color: rgba(0, 0, 0, 0.767);
     transition: 1s;
-    width: 43%;
-    height: 96%;
+    width: 63%;
+    height: 76%;
     z-index: 2;
   }
   main .dots:hover .h1 {
@@ -5844,12 +6691,12 @@ footer .right .text button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    left: 25px;
+    left: 15px;
     top: 10px;
   }
   main .dots:hover .sub-main2 .picture {
-    width: 70%;
-    height: 35%;
+    width: 55%;
+    height: 25%;
     margin: 0.1rem 0 1rem 0;
   }
   main .dots:hover .sub-main2 hr {
@@ -5860,7 +6707,7 @@ footer .right .text button {
     font-size: 1rem;
   }
   main .dots:hover .sub-main2 .media {
-    margin: 0 0 2rem 1rem;
+    margin: 0 0 0.4rem 0.5rem;
     font-size: 1.5rem;
     display: flex;
     justify-content: space-around;
@@ -5871,10 +6718,9 @@ footer .right .text button {
     font-weight: 800;
     height: 60%;
     margin: 0.5rem 0 0 0;
-    padding: 0 0 0 1rem;
+    padding: 0 0 0 0.5rem;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
     text-align: center;
   }
   main .dots:hover .sub-main2 a {
@@ -6073,7 +6919,7 @@ footer .right .text button {
     margin: 1rem 0 0 0;
   }
   main .my-works h1 {
-    font-size: 2rem;
+    font-size: 1.3rem;
     text-align: center;
     padding: 3rem 0 0 0;
     color: white;
@@ -6082,6 +6928,7 @@ footer .right .text button {
     width: 90%;
     margin: 3rem auto;
     height: 70%;
+    padding-left: 5rem;
   }
   main .my-works .big-pic .left {
     width: 100%;
@@ -6138,7 +6985,7 @@ footer .right .text button {
     color: white;
     width: 100%;
     height: 50%;
-    padding: 2rem 10rem 0 0;
+    padding: 2rem 6rem 0 0;
   }
   footer .left h1 {
     font-size: 1.2rem;
@@ -6257,8 +7104,8 @@ footer .right .text button {
   main .dots:hover {
     background-color: rgba(0, 0, 0, 0.767);
     transition: 1s;
-    width: 43%;
-    height: 96%;
+    width: 55%;
+    height: 66%;
     z-index: 2;
   }
   main .dots:hover .h1 {
@@ -6276,30 +7123,30 @@ footer .right .text button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    left: 25px;
+    left: 15px;
     top: 10px;
   }
   main .dots:hover .sub-main2 .picture {
-    width: 70%;
-    height: 35%;
-    margin: 0.1rem 0 1rem 0;
+    width: 50%;
+    height: 25%;
+    margin: 0.1rem 0 0.4rem 0;
   }
   main .dots:hover .sub-main2 hr {
-    margin: 1rem;
+    margin: 0.2rem;
   }
   main .dots:hover .sub-main2 .p3 {
-    margin: 0.2rem 0 1rem 3rem;
-    font-size: 1rem;
+    margin: 0.5rem 0 1rem 2rem;
+    font-size: 0.7rem;
   }
   main .dots:hover .sub-main2 .media {
-    margin: 0 0 2rem 1rem;
-    font-size: 1.5rem;
+    margin: 0 0 0.5rem 0.4rem;
+    font-size: 1.2rem;
     display: flex;
     justify-content: space-around;
     width: 90%;
   }
   main .dots:hover .sub-main2 .anchor {
-    font-size: 1.1rem;
+    font-size: 0.8rem;
     font-weight: 800;
     height: 60%;
     margin: 0.5rem 0 0 0;
