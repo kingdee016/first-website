@@ -6497,6 +6497,7 @@ footer .right .text button {
     width: 90%;
     margin: 3rem auto;
     height: 70%;
+    padding: 0 0 0 4rem;
   }
   main .my-works .big-pic .left {
     width: 100%;
@@ -6506,7 +6507,7 @@ footer .right .text button {
     justify-content: space-around;
   }
   main .my-works .big-pic .left .picture {
-    width: 50%;
+    width: 55%;
     height: 100%;
   }
   main .my-works .big-pic .left .picture img {
@@ -6527,7 +6528,7 @@ footer .right .text button {
     flex-direction: column;
   }
   main .my-works .big-pic .right .picture {
-    width: 50%;
+    width: 55%;
     height: 100%;
   }
   main .my-works .big-pic .right .picture img {
