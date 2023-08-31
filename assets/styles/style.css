@@ -6790,7 +6790,7 @@ footer .right .text button {
     justify-content: center;
     align-items: center;
     position: absolute;
-    bottom: -454px;
+    bottom: -504px;
   }
   main .who-am-i .down .div {
     background-color: white;
@@ -6799,11 +6799,11 @@ footer .right .text button {
     margin: 1rem;
     width: 50%;
     text-align: center;
-    padding: 2rem 2rem 9rem 2rem;
+    padding: 2rem 2rem 10rem 2rem;
     font-size: 1.2vw;
   }
   main .who-am-i .down .div h1 {
-    font-size: 0.85rem;
+    font-size: 0.7rem;
     margin: 0 0 0.5rem 0;
   }
   main .who-am-i .down .div p {
@@ -6818,7 +6818,7 @@ footer .right .text button {
     height: 190vh;
     display: flex;
     flex-direction: column;
-    margin: 16rem auto;
+    margin: 19rem auto;
   }
   main .education .left {
     background-color: blue;
@@ -6866,7 +6866,7 @@ footer .right .text button {
   }
   main .services h1 {
     font-size: 1.5rem;
-    margin: 2rem 0 0 0;
+    margin: 2rem 0 1rem 0;
   }
   main .services .text {
     width: 80%;
@@ -6878,6 +6878,7 @@ footer .right .text button {
   }
   main .services .text h1 {
     font-size: 1.9rem;
+    margin: 2rem 0 0 0;
   }
   main .services .text p {
     font-size: 1.2rem;
@@ -6927,7 +6928,7 @@ footer .right .text button {
   main .my-works .big-pic {
     width: 90%;
     margin: 3rem auto;
-    height: 70%;
+    height: 80%;
     padding-left: 5rem;
   }
   main .my-works .big-pic .left {
@@ -6938,7 +6939,7 @@ footer .right .text button {
     justify-content: space-around;
   }
   main .my-works .big-pic .left .picture {
-    width: 50%;
+    width: 70%;
     height: 100%;
   }
   main .my-works .big-pic .left .picture img {
@@ -6959,7 +6960,7 @@ footer .right .text button {
     flex-direction: column;
   }
   main .my-works .big-pic .right .picture {
-    width: 50%;
+    width: 70%;
     height: 100%;
   }
   main .my-works .big-pic .right .picture img {
